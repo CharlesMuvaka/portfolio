@@ -25,10 +25,10 @@
   <a href="https://linkedin.com/in/CharlesMuvaka" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jente Rosseel's LinkedIn" /></a> 
   <span>&nbsp;</span>
   <!-- Twitter -->
-  <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a> 
+  <!-- <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a> 
   <span>&nbsp;</span>
-  <!-- Stack overflow -->
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a> 
+  Stack overflow
+  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
 
   <!-- Other badges -->
   <!-- 
