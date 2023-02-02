@@ -10,19 +10,19 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center">Hi 👋, I'm Charles Muvaka</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CharlesMuvaka" alt="CharlesMuvaka" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/jrosseel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jente Rosseel's LinkedIn" /></a> 
+  <a href="https://linkedin.com/in/CharlesMuvaka" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jente Rosseel's LinkedIn" /></a> 
   <span>&nbsp;</span>
   <!-- Twitter -->
   <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a> 
@@ -47,15 +47,15 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm an expert on **software architectures for Google Cloud, AWS, Android development(java and Kotlin), REstful Api development(Spring and Java Spark framework).**
 
 📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
 
-📄 Know about my experiences [through my CV](about/resume.md)
+📄 Know about my experiences [through my CV](https://github.com/CharlesMuvaka/resume)
 
 🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **Find me on th filed or behind a laptop 🎹**
 
 ### My work
 
@@ -66,11 +66,11 @@
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+👨‍💻 Review my projects at [https://github.com/CharlesMuvaka](https://github.com/CharlesMuvaka)
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **https://www.linkedin.com/in/charlesmuvaka/**
 
 <br />
 
@@ -147,7 +147,7 @@
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesMuvaka&show_icons=true&locale=en" alt="CharlesMuvaka" /></p>
 
 <!-- END -->
 
